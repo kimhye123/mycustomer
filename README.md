@@ -1,2 +1,4 @@
 # mycustomer
-it is a customer manage system
+hi baby!
+i like movie, do you like come with me!
+that's great!
